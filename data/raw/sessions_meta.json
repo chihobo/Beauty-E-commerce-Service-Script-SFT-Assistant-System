@@ -1,0 +1,7737 @@
+{
+  "buyer_0000#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0001#00": {
+    "rating": 3,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0001#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0002#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0003#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0004#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0005#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0006#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0007#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0007#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0008#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0009#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0010#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0010#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0011#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0012#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0012#01": {
+    "rating": 1,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0013#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0014#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0015#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0016#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0017#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0018#00": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0019#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0020#00": {
+    "rating": 3,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0020#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0021#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0022#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0022#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0023#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0024#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0024#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0025#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0025#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0026#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0027#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0028#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0029#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0030#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0031#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0032#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0033#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0034#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "闲聊安抚",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0035#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0036#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0037#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0037#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0038#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0038#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0039#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0040#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0040#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0040#02": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0041#00": {
+    "rating": 3,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0042#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0043#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0043#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0044#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0044#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0044#02": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0045#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0045#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0045#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0046#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0047#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0048#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0049#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0049#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0050#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0051#00": {
+    "rating": 1,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0051#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0052#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0053#00": {
+    "rating": 2,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0053#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0054#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0055#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0056#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0056#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0056#02": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0057#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0057#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0058#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0058#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0059#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0060#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0060#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0061#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0061#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0062#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0063#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0064#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0065#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0065#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0066#00": {
+    "rating": 1,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0067#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0068#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0069#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0070#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0071#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0072#00": {
+    "rating": 1,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0073#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0074#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0075#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0075#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0076#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0076#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0077#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0077#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0078#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0078#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0079#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0080#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0081#00": {
+    "rating": 1,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0082#00": {
+    "rating": 3,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0083#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0083#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0084#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0085#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0086#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0087#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0087#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0088#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0088#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0089#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0090#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0091#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0092#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0093#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0093#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0094#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0095#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0096#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0097#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0097#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0097#02": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0098#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0099#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0099#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0100#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0101#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0101#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0102#00": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0102#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0102#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0103#00": {
+    "rating": 2,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0103#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0104#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0105#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0106#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0107#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0107#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0108#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0109#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0110#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0111#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0111#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0112#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0112#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0113#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0113#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0113#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0114#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0115#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0115#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0116#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0117#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0118#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0118#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0118#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0119#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0119#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0120#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0121#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0122#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0123#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0124#00": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0125#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0126#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0127#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0128#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0128#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0128#02": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0129#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0130#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0131#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0132#00": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0132#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0133#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0133#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "闲聊安抚",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0133#02": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0134#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0134#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0135#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0136#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0136#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0137#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0138#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0139#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0140#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0141#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0142#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0143#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0144#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0145#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0146#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0146#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0146#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0147#00": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0148#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0148#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0149#00": {
+    "rating": 1,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0150#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0151#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0152#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0152#01": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0153#00": {
+    "rating": 3,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0153#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0154#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0155#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0156#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0156#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0157#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0158#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0159#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0160#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0160#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0161#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0162#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0163#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0164#00": {
+    "rating": 3,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0165#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0166#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0167#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0167#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0168#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0168#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0169#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0170#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0171#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0171#01": {
+    "rating": 1,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0172#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0173#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0174#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0175#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0175#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0176#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0177#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0177#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0178#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0178#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0179#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0180#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0181#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0182#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0183#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0184#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0185#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0186#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0186#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0187#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0188#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0189#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0190#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0191#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0192#00": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0192#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0193#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0194#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0195#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0196#00": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0197#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0198#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0198#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0198#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0199#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0199#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0200#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0201#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0202#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0203#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0203#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0204#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0205#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0205#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0206#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0207#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0207#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0208#00": {
+    "rating": 1,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0209#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0209#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0210#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0211#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0212#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0213#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0214#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0215#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0216#00": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0217#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0218#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0219#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0220#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0221#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0221#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0221#02": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0222#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0223#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0224#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0225#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0226#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0226#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0227#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0228#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0229#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "闲聊安抚",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0230#00": {
+    "rating": 1,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0231#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0231#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0231#02": {
+    "rating": 1,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0232#00": {
+    "rating": 1,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0233#00": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0234#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0235#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0235#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0236#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0236#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0237#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0238#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0239#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0240#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0240#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0241#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0241#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0242#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0242#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0243#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0244#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0245#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0246#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0246#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0247#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0248#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0249#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0250#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0250#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0250#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0251#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0252#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0252#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0253#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0254#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0255#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0256#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0257#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0257#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0257#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0258#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0259#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0260#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0260#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0261#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0262#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0263#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0264#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0264#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "闲聊安抚",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0265#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0266#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0267#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0268#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0269#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0270#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0270#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0271#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0271#01": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0272#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0273#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0273#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0273#02": {
+    "rating": 1,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0274#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0275#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0276#00": {
+    "rating": 3,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0277#00": {
+    "rating": 1,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0278#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0279#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0280#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0281#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0282#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0282#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0283#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0284#00": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0284#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0285#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0286#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0286#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0287#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0288#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0288#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0288#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0289#00": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0290#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0291#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0291#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0291#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0292#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0293#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0294#00": {
+    "rating": 3,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0295#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0295#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0295#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0296#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0297#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0297#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0298#00": {
+    "rating": 3,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0299#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0299#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0300#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0300#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0301#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0301#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0302#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0303#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0304#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0305#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0306#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0306#01": {
+    "rating": 3,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0307#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0308#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0309#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0310#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0311#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0311#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0312#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0312#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0313#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0313#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0313#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0314#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0315#00": {
+    "rating": 3,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0316#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0316#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0317#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0318#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0319#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0320#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0321#00": {
+    "rating": 3,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0321#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0322#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0322#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0322#02": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0323#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0324#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0325#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0325#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0326#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0327#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0327#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0327#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0328#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0329#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0330#00": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0331#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0331#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0332#00": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0333#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0334#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0334#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0335#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0335#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0335#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0336#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0336#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0337#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0337#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "闲聊安抚",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0338#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0339#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0339#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0340#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0341#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0341#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0342#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0343#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0344#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0344#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0345#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0346#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0347#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0347#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0348#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0349#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0349#01": {
+    "rating": 2,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0350#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0351#00": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0352#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0352#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0352#02": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0353#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0354#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0355#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0356#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0357#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0357#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0357#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0358#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0359#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0360#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0361#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0362#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0362#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0363#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0364#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0365#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0365#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0366#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0366#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0367#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0368#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0369#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0370#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0371#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0372#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0373#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0374#00": {
+    "rating": 1,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0374#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0374#02": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0375#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0375#01": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0376#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0377#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0378#00": {
+    "rating": 2,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0379#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0380#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0381#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0382#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0383#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0384#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0385#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0386#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0387#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0388#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0389#00": {
+    "rating": 1,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0390#00": {
+    "rating": 2,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0390#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0391#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0392#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0393#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0394#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0394#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0395#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0396#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0396#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0397#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0398#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0399#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0400#00": {
+    "rating": 3,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0401#00": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0402#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0402#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0403#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0404#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0405#00": {
+    "rating": 3,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0405#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0406#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0406#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0406#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0407#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0408#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0409#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0410#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0410#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0411#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0411#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0411#02": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0412#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0413#00": {
+    "rating": 3,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0414#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0414#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0415#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0415#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0416#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0417#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0417#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0417#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0418#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0419#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0420#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0420#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0420#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0421#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0422#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0423#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0423#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0424#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0425#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0426#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0427#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0427#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0428#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0429#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0430#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0430#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0431#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0432#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0433#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0433#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0434#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0434#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0435#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0435#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0435#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0436#00": {
+    "rating": 1,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0437#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0438#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0439#00": {
+    "rating": 2,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0439#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0440#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0441#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0442#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0443#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0443#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0443#02": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0444#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0444#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0445#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0445#01": {
+    "rating": 3,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0446#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0447#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0447#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0448#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0449#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0450#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0450#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0451#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0452#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0453#00": {
+    "rating": 1,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0454#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0455#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0455#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0455#02": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0456#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0457#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0458#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0459#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0460#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0461#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0462#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0463#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0464#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0464#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0465#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0465#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0466#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0467#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0468#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0469#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0469#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0469#02": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0470#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0470#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0471#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0472#00": {
+    "rating": 3,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0473#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0473#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0473#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0474#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0475#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0476#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0477#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0478#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0479#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0479#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0480#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0481#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0481#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0482#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0483#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0483#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0484#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0485#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0486#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0487#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0488#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0489#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0490#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0491#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0492#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0493#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0494#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0495#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0496#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0496#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0496#02": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0497#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0498#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0499#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0500#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0501#00": {
+    "rating": 3,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0502#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0503#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0503#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0504#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0505#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0506#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0506#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0506#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0507#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0507#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0508#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0509#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0510#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0510#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0511#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0511#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0512#00": {
+    "rating": 1,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0513#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0513#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0514#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0515#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0516#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0516#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0517#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0518#00": {
+    "rating": 1,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0518#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0518#02": {
+    "rating": 2,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0519#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0520#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0521#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0521#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0521#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0522#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0523#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0523#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0524#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0524#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0525#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0526#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0527#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0528#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0529#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0530#00": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0531#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0531#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0532#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0533#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0534#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0535#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0535#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0536#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0537#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0538#00": {
+    "rating": 1,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0539#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0539#01": {
+    "rating": 1,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0540#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0540#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0540#02": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0541#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0542#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0543#00": {
+    "rating": 2,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0544#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0545#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0546#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0546#01": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0547#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0548#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0548#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0548#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0549#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0549#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0550#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0551#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0552#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0553#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0554#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0555#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0556#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0557#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0558#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0558#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0559#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0559#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0559#02": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0560#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0561#00": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0562#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0562#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0562#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0563#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0563#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0564#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0565#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0565#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0565#02": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0566#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0567#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0567#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0568#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0569#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0570#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0571#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0571#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0572#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0572#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0573#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0574#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0575#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0575#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0575#02": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0576#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0576#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0576#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0577#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0578#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0578#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0579#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0580#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0581#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0581#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0582#00": {
+    "rating": 1,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0582#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0583#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0584#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0585#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0586#00": {
+    "rating": 3,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0586#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0587#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0588#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0589#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0590#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0590#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0591#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0592#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0593#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0594#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0595#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0596#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0597#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0597#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0598#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0598#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0599#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0600#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0600#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0600#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0601#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0601#01": {
+    "rating": 3,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0601#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0602#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0603#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0604#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0605#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0605#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0606#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0607#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0608#00": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0608#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0608#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0609#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0610#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0610#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0610#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0611#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0612#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0613#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0614#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0615#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0616#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0617#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0618#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0619#00": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0620#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0620#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0621#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0622#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0623#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0624#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0625#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0626#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0627#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0628#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0629#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0630#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0631#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0632#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0633#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0634#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0634#01": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0635#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0636#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0637#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0637#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0638#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0639#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0639#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0640#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0640#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0641#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0642#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0643#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0643#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0644#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0644#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0645#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0645#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0645#02": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0646#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0647#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0647#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0648#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0649#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0650#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0651#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0651#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0651#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0652#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0652#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0653#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0654#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0655#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0655#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0656#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0657#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0658#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0658#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0659#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0659#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0660#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0661#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0662#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0662#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0663#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0663#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0663#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0664#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0665#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0666#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0667#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0668#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0668#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0668#02": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0669#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0670#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0671#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0672#00": {
+    "rating": 3,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0672#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0672#02": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0673#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0674#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0675#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0676#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0677#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0678#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0679#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0680#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0681#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0682#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0683#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0684#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0684#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0685#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0686#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0687#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0687#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0688#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0689#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0689#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0689#02": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0690#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0691#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0691#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0692#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0692#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0692#02": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0693#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0694#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0695#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0696#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0697#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0698#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0699#00": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0699#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0700#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0701#00": {
+    "rating": 2,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0702#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0703#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0704#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0704#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0705#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0706#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0707#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0708#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0709#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0710#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0711#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0711#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0712#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0713#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0713#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0713#02": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0714#00": {
+    "rating": 3,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0715#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0716#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0717#00": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0718#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0719#00": {
+    "rating": 1,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0720#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0720#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0720#02": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0721#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0722#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0722#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0723#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0724#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0724#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0725#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0726#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0726#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0726#02": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0727#00": {
+    "rating": 1,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0728#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0729#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0730#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0731#00": {
+    "rating": 1,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0731#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0732#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0733#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0733#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0734#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0735#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0736#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0737#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0738#00": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0739#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0740#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0741#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0741#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0741#02": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0742#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0743#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0744#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0744#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0744#02": {
+    "rating": 1,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0745#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0746#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0746#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0747#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0748#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0749#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0750#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "闲聊安抚",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0751#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0751#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0751#02": {
+    "rating": 3,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0752#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0753#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0754#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0755#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0756#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0757#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0758#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0759#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0760#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0761#00": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0761#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0762#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0763#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0764#00": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0765#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0765#01": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0766#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0767#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0768#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0769#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0769#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0770#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0771#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0771#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0772#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0773#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0774#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0774#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0775#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0776#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0777#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0777#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0778#00": {
+    "rating": 3,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0779#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0780#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0780#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0781#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0782#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0783#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0784#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": true
+  },
+  "buyer_0785#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0785#01": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0786#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": true
+  },
+  "buyer_0787#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  },
+  "buyer_0788#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0789#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "闲聊安抚",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0790#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0791#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0792#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0793#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售后",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0794#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0795#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0795#01": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0796#00": {
+    "rating": null,
+    "ordered_within_24h": false,
+    "scenario": "售后",
+    "quality_tier": "外包",
+    "has_sensitive": true
+  },
+  "buyer_0797#00": {
+    "rating": 5,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "金牌",
+    "has_sensitive": false
+  },
+  "buyer_0798#00": {
+    "rating": 4,
+    "ordered_within_24h": false,
+    "scenario": "售前",
+    "quality_tier": "新人",
+    "has_sensitive": false
+  },
+  "buyer_0799#00": {
+    "rating": null,
+    "ordered_within_24h": true,
+    "scenario": "售前",
+    "quality_tier": "外包",
+    "has_sensitive": false
+  }
+}

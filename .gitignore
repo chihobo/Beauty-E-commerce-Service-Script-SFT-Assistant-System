@@ -1,0 +1,12 @@
+# Python 运行产物
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# 环境与密钥（本仓库数据全为模拟生成，密钥一律走环境变量）
+.env
+*.key
+*.pem
+
+# 日志与临时文件
+*.log

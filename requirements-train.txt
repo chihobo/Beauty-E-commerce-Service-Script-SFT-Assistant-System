@@ -1,0 +1,20 @@
+# 训练环境依赖（AutoDL 4090 实例使用，与本地 demo 环境分离）
+# 用于 Qwen2.5-7B-Instruct + LoRA 真训练（peft + trl SFTTrainer）
+
+# 深度学习框架（AutoDL 镜像一般预装 CUDA 版 torch，按需安装）
+torch
+
+# 模型与分词器
+transformers
+
+# LoRA 微调
+peft
+
+# SFT 训练器
+trl
+
+# 数据集加载
+datasets
+
+# 分布式/混合精度训练加速
+accelerate

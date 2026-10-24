@@ -1,0 +1,19 @@
+{
+  "total": 1105,
+  "base_passed": 996,
+  "base_rejected": 109,
+  "fast_selected": 260,
+  "fast_rejected": 59,
+  "multi_selected": 502,
+  "multi_rejected": 175,
+  "final_selected": 762,
+  "reject_reasons": {
+    "快速通道:低星2": 9,
+    "多信号:LLM判别淘汰": 175,
+    "快速通道:低星1": 26,
+    "基础:不足3轮": 60,
+    "基础:结尾客户抱怨": 24,
+    "基础:客服敷衍短句": 25,
+    "快速通道:低星3": 24
+  }
+}

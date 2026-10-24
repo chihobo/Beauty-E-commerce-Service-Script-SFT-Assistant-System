@@ -1,0 +1,21 @@
+# 本地 demo 环境依赖（数据管线 / 在线服务 / 评估 / 测试）
+# 训练相关依赖见 requirements-train.txt（在 AutoDL 4090 实例单独安装）
+
+# LLM 调用：OpenAI 兼容 SDK（离线打标、在线意图分类，接 DeepSeek/通义）
+openai
+
+# 在线服务：推理服务与接口层
+fastapi
+uvicorn
+
+# 在线链路调用推理服务的 HTTP 客户端
+requests
+
+# 演示界面
+streamlit
+
+# 测试框架（SpecDD + TDD 全量回归）
+pytest
+
+# 评估：BLEU 分数计算
+nltk

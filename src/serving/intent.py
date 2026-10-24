@@ -14,6 +14,8 @@ import json
 import re
 from dataclasses import dataclass
 
+from ..config import LLM_MODEL
+
 # 8 类意图完整集合，V2 的 prompt 与结果校验都以此为准
 INTENTS = [
     "价格咨询",
@@ -115,7 +117,7 @@ def classify_v2(text: str, client) -> IntentResult:
         f"客户消息：{text}"
     )
     response = client.chat.completions.create(
-        model="intent-classifier",
+        model=LLM_MODEL,
         messages=[{"role": "user", "content": prompt}],
         temperature=0,
     )
